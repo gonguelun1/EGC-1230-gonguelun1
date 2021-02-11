@@ -20,4 +20,4 @@ script:
   - coverage xml
 branches:
   only:
-    - desarrollo
+    - master
